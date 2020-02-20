@@ -2,9 +2,6 @@ package com.mycompany.task4;
 
 public class CalculateInterest {
 	double principal,rate,time;
-	public double getPrincipal() {
-		return principal;
-	}
 
 	public void setPrincipal(double principal) {
 		this.principal = principal;
